@@ -1,0 +1,24 @@
+{
+    "author": "alan.acheff@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "textlayout",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "TextLayout",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "3d0c0617-2316-4277-8025-8a2566d5b4f3",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
